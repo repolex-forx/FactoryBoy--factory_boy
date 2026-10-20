@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/FactoryBoy/factory_boy/commit/ae9f2f4650afef0bc9b0925de97f618603233ff8",
       "git:hexsha": "ae9f2f4650afef0bc9b0925de97f618603233ff8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/FactoryBoy/factory_boy/commit/f7377c0a9bcc6c81a1e7e3ba456b617a77b58a32",

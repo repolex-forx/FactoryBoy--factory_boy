@@ -1,0 +1,7 @@
+[2026-10-20T09:50:26Z] === AST ITERATION 1 START | repo=FactoryBoy/factory_boy sha=ae9f2f46 ===
+[2026-10-20T09:50:26Z] [iter=1] PHASE START: ast repo=FactoryBoy/factory_boy sha=ae9f2f46
+[2026-10-20T09:50:26Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T09:51:14Z] [iter=1] AST chunks built count=1 triples=432099
+[2026-10-20T09:51:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ae9f2f4650afef0bc9b0925de97f618603233ff8/.complete
+[2026-10-20T09:51:14Z] [iter=1] PHASE END: ast elapsed_s=48 elapsed_min=0.8
+[2026-10-20T09:51:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
